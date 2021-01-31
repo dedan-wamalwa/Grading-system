@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572779824 source:c:\users\dedan\desktop\c++ programs\gradingstudent loop\main.cpp
+	<iostream>
+	"gradeloop.h"
+	<string>
+
+1572779658 c:\users\dedan\desktop\c++ programs\gradingstudent loop\gradeloop.h
+	<iostream>
+	<string>
+
+1572779802 source:c:\users\dedan\desktop\c++ programs\gradingstudent loop\gradeloop.cpp
+	<iostream>
+	"gradeloop.h"
+	<string>
+
